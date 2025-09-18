@@ -12,7 +12,7 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![George Eduard´s GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeduardtp&show_icons=true&theme=dracula)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeduardtp&show_icons=true&theme=transparent)
 <!--
 **georgeeduardtp/georgeeduardtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
