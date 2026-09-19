@@ -150,16 +150,20 @@ Backend Systems
 
 <div align="center">
 
-<img width="47%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgeeduardtp&theme=github_dark"/>
-
-<img width="47%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgeeduardtp&theme=github_dark"/>
-
-<br/>
-
-<img width="95%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgeeduardtp&theme=github_dark"/>
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%"
+           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgeeduardtp&theme=github_dark"
+           alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img width="100%"
+           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgeeduardtp&theme=github_dark"
+           alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
