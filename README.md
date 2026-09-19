@@ -160,7 +160,7 @@ Backend Systems
     <td width="50%">
       <div align="center">
   <img
-    width="70%"
+    width="100%"
     src="https://streak-stats.demolab.com?user=georgeeduardtp&theme=transparent&hide_border=true"
     alt="GitHub streak"
   />
