@@ -68,7 +68,7 @@ What I enjoy most is the engineering behind the interface: **business logic, sec
 
 ---
 
-## 🧠 Backend & architecture
+## 🧠 How I think about Backend Systems
 
 ```text
 Backend Systems
