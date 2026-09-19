@@ -64,6 +64,13 @@ What I enjoy most is the engineering behind the interface: **business logic, sec
 
 `Docker` · `Git` · `GitHub` · `Maven` · `Postman` · `Flyway`
 
+### AI & Productivity
+
+<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+`Codex` · `Claude`
+
 </div>
 
 ---
