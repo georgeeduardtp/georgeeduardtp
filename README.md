@@ -148,23 +148,30 @@ Backend Systems
 
 ## 📊 GitHub activity
 
-<div align="center">
-
 <table>
   <tr>
     <td width="50%">
-      <img width="100%"
-           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgeeduardtp&theme=github_dark"
-           alt="GitHub Stats"/>
+      <img
+        width="100%"
+        src="https://github-readme-stats-fast.vercel.app/api?username=georgeeduardtp&show_icons=true&hide_border=true&theme=github_dark"
+        alt="George's GitHub stats"
+      />
     </td>
     <td width="50%">
-      <img width="100%"
-           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgeeduardtp&theme=github_dark"
-           alt="Top Languages"/>
+      <img
+        width="100%"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=georgeeduardtp&layout=compact&langs_count=6&hide_border=true&theme=github_dark"
+        alt="Top languages"
+      />
     </td>
   </tr>
 </table>
-
+<div align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=georgeeduardtp&theme=transparent&hide_border=true"
+    alt="GitHub streak"
+  />
 </div>
 
 ---
