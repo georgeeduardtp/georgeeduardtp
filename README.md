@@ -150,14 +150,7 @@ Backend Systems
 
 <table>
   <tr>
-    <td width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats-fast.vercel.app/api?username=georgeeduardtp&show_icons=true&hide_border=true&theme=github_dark"
-        alt="George's GitHub stats"
-      />
-    </td>
-    <td width="50%">
+    <td width="100%">
       <img
         width="100%"
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=georgeeduardtp&layout=compact&langs_count=6&hide_border=true&theme=github_dark"
