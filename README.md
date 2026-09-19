@@ -150,13 +150,18 @@ Backend Systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=georgeeduardtp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="George's GitHub stats"/>
+<img height="180"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgeeduardtp&theme=github_dark"
+     alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeeduardtp&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
+<img height="180"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgeeduardtp&theme=github_dark"
+     alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=georgeeduardtp&theme=transparent&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=georgeeduardtp&theme=transparent&hide_border=true"
+     alt="GitHub Streak"/>
 
 </div>
 
