@@ -157,15 +157,18 @@ Backend Systems
         alt="Top languages"
       />
     </td>
-  </tr>
-</table>
-<div align="center">
+    <td>
+      <div align="center">
   <img
     width="70%"
     src="https://streak-stats.demolab.com?user=georgeeduardtp&theme=transparent&hide_border=true"
     alt="GitHub streak"
   />
 </div>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
